@@ -1,5 +1,7 @@
 # Git Graph extension for Visual Studio Code
 
+You can also read this README in [简体中文](https://github.com/TiAmo-chen/vscode-git-graph_zh-cn/blob/develop/README_ch-cn.md)
+
 View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!
 
 ![Recording of Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)

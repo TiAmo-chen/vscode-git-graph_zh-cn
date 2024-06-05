@@ -1,6 +1,5 @@
 # Git Graph 扩展 for Visual Studio Code
 
-You can also read this README in [简体中文](https://github.com/TiAmo-chen/vscode-git-graph_zh-cn/blob/develop/README_ch-cn.md)
 
 在 Visual Studio Code 中查看你的仓库的 Git 图，并能直接从图表上轻松执行 Git 操作。可配置以满足你的显示需求！
 
